@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CosmosDBIndexCreator", "CosmosDBIndexCreator\CosmosDBIndexCreator.csproj", "{11F0B090-DBC2-41CF-A88C-64804BA1CA36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11F0B090-DBC2-41CF-A88C-64804BA1CA36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11F0B090-DBC2-41CF-A88C-64804BA1CA36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11F0B090-DBC2-41CF-A88C-64804BA1CA36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11F0B090-DBC2-41CF-A88C-64804BA1CA36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F7C0F82-3E16-4DC6-A95C-E71A881266E6}
+	EndGlobalSection
+EndGlobal
